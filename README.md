@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Advanced Web Exploitation, Python, Java script
 - 👯 I’m looking to collaborate on open source security tools
 - 💬 Ask me about Python, Network Scanning, or Bug Bounty
-- 📫 How to reach me: whatsapp : 0895411911382
+- 📫 How to reach me: 0895411911382
 
 ---
 
