@@ -20,4 +20,4 @@
 ### 📊 GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Copykopi&show_icons=true&theme=dracula&count_private=true)](https://github.com/USERNAME_KAMU)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Copykopilayout=compact&theme=dracula)](https://github.com/USERNAME_KAMU)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Copykopi=compact&theme=dracula)](https://github.com/USERNAME_KAMU)
