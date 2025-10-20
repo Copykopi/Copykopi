@@ -18,6 +18,6 @@
 ---
 
 ### 📊 GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Copykopi&show_icons=true&theme=dracula&count_private=true)](https://github.com/USERNAME_KAMU)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Copykopi&show_icons=true&theme=dracula&count_private=true)](https://github.com/Copykopi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Copykopi&layout=compact&theme=dracula)](https://github.com/USERNAME_KAMU)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Copykopi&layout=compact&theme=dracula)](https://github.com/Copykopi)
