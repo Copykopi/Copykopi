@@ -1,6 +1,6 @@
 # Hi there, I'm Tajul 👋
 
-<img src="https://images.scalebranding.com/target-bug-logo-5dfe2a74-1797-4f63-a59d-f376514384ef.jpg" width="100%"/>
+<img src="https://haktrak.com/uploads/images/Image080447590273whatsapp-image-2024-06-27-at-10-59-49-b42809f9-jpg.jpg?w=345&h=465&mode=crop" width="100%"/>
 
 ### About Me
 - 🌱 I’m currently learning Advanced Web Exploitation, Python, Java script
