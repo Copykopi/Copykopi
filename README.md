@@ -3,9 +3,9 @@
 <img src="https://i.pinimg.com/736x/f9/23/9a/f9239a39954cd335f0164e6ae601e88a.jpg" width="100%"/>
 
 ### About Me
-- 🌱 I’m currently learning Advanced Web Exploitation, Python, JavaScript
-- 👯 I’m looking to collaborate on open source security tools
-- 💬 Ask me about Python, Network Scanning, or Bug Bounty
+-  I’m currently learning Advanced Web Exploitation, Python, JavaScript
+-  I’m looking to collaborate on open source security tools
+-  Ask me about Python, Network Scanning, or Bug Bounty
 
 ---
 
